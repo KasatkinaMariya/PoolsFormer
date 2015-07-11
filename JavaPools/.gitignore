@@ -1,0 +1,7 @@
+# ignore user settings
+.metadata/
+.recommenders/
+.settings/
+
+# ignore object code
+target/
